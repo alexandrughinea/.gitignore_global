@@ -1,0 +1,32 @@
+# Operating System files
+.DS_Store          # macOS folder metadata
+._*                # macOS resource fork files
+Thumbs.db          # Windows thumbnail cache
+Desktop.ini        # Windows folder settings
+
+# IDE configuration files
+.vscode/           # Visual Studio Code workspace settings
+.idea/             # JetBrains IDEs (IntelliJ IDEA, PyCharm, WebStorm)
+.classpath         # Eclipse project configuration
+.project           # Eclipse project file
+.settings/         # Eclipse settings folder
+nbproject/         # NetBeans project files
+*.xcuserdatad      # Xcode user-specific settings
+
+# Node.js
+node_modules/      # Installed node modules, usually should not be committed
+npm-debug.log      # npm error logs
+
+# Temporary files
+*.log              # Log files, e.g., from builds, errors, etc.
+*.tmp              # Temporary files
+*.swp              # Swap files from text editors like Vim
+*.bak              # Backup files
+*.orig             # Backup files created by merge conflicts
+tmp/               # Temporary folder
+
+# Build artifacts
+dist/              # Build artifacts for distribution (often in JavaScript projects)
+build/             # Build output in many languages (Java, C++, etc.)
+target/            # Maven/Gradle build output (Java projects)
+out/               # Output directory, e.g., from compilers or build systems
