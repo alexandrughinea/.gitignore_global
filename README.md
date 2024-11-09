@@ -29,7 +29,7 @@ Open the .gitignore_global file in your text editor to add the files and directo
 nano ~/.gitignore_global
 ```
 
-### 4. Paste the contents of `.gitignore_global` fromt his repository or add your own.
+### 4. Paste the contents of `.gitignore_global` fromt this repository or add your own.
 
 ### 5. Configure Git to Use the Global .gitignore
 
